@@ -1,0 +1,11 @@
+# folders
+node_modules
+.idea
+dist
+
+# files
+*.log
+*.lock
+package-lock.json
+yarn.lock
+*.iml
